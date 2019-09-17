@@ -1,0 +1,5 @@
+ABCDEF
+AB C
+BC AD
+D E
+CF B
