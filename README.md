@@ -1,5 +1,5 @@
 # Closure-of-a-set-of-attributes
-INPUT: A set of attributes {A1,A2,A3,......,An} and a set of FD's(Functional Dependencies) S. 
+INPUT: A set of attributes {A1,A2,A3,......,An} and a set of FD's(Functional Dependencies) S.
 OUTPUT: The closure {A1,A2,A3,.....,An}+ 
 ALGORITHM: 
 1) Split the FD's of S so that each FD in S has a single attribute on the right. 
